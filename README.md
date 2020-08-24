@@ -10,7 +10,7 @@
 	
 #### Просмотр бд: 
 
-	http://localhost:8090/h2-console
+	http://localhost:8050/h2-console
 	
     Указать: 
 	    JDBC URL = test_db
